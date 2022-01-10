@@ -1,0 +1,8 @@
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\bin\Debug\peresdacha.exe.config
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\bin\Debug\peresdacha.exe
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\bin\Debug\peresdacha.pdb
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\obj\Debug\peresdacha.csproj.AssemblyReference.cache
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\obj\Debug\peresdacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\obj\Debug\peresdacha.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\obj\Debug\peresdacha.exe
+C:\Users\Василий\Desktop\getH\zachyot\peresdacha\obj\Debug\peresdacha.pdb
