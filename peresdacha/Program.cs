@@ -2,6 +2,7 @@
 
 public class zach1
 {
+    // зачет
     const string alfavit = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
 
     private string zxc(string text, int k)
